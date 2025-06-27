@@ -1,4 +1,4 @@
-# Autor: Matheus Moreira de Lima. Curso: Analise e desenvolvimento de Sistemas.
+# Autores: Matheus Moreira de Lima & Emanuel Edgard de Carvalho Sousa. Curso: Analise e desenvolvimento de Sistemas.
 # 💻 API RESTful - Projeto Final (Back-End 2025)
 
 Este é o projeto final do módulo de Back-End, desenvolvido com Node.js, Express e MySQL. A aplicação expõe uma API RESTful para cadastro de usuários, autenticação com JWT e operações completas de CRUD para **clientes** e **produtos**.
